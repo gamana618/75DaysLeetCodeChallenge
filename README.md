@@ -91,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gamana618/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/gamana618/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/gamana618/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
